@@ -1,17 +1,14 @@
-# 🔐 Sign In & Sign Up Form UI ✨
-
-A sleek, animated, and responsive **login/signup** interface for web applications.  
-This project offers a modern user experience with seamless transitions, perfect for any authentication system! 🌐
+# 🗣️ Robo_Speaker 2.0 🤖  
+A Python-based text-to-speech assistant that speaks what you type — created by **Harsh Pandey** 💻✨
 
 ---
 
 ## 🚀 Features
 
-- 🔄 Toggle between **Sign In** and **Sign Up**
-- 🖼️ Stunning image carousel with text slider
-- 📱 Fully responsive for all screen sizes
-- ✨ Smooth transitions and modern UI
-- ✅ HTML5 form validations
-- 📦 Easy to integrate into any web project
+- 🔊 Converts your typed text into real-time speech
+- 🤖 Interactive and continuous conversation until you type `quit`
+- 💬 Easy to use — just type and listen!
+- 🔁 Runs in a loop until exited
+- 🎓 Beginner-friendly Python project
 
 ---
